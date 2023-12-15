@@ -1,0 +1,6 @@
+libftd2xx-arm-v8-1.4.27.tgz filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+demo_origin.zip filter=lfs diff=lfs merge=lfs -text
+demo_reverse.zip filter=lfs diff=lfs merge=lfs -text
+demo_standard.zip filter=lfs diff=lfs merge=lfs -text
+demovsusb.sh filter=lfs diff=lfs merge=lfs -text
